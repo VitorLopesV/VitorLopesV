@@ -1,4 +1,4 @@
-# OLá, meu nome é Vitor! 😎 
+# Olá, meu nome é Vitor! 🙋‍♂️ 
 
 - 🎧 Sou uma pessoa extrovertida e que curte aproveitar os momentos.
 - 🔭 Tenho interresse em seguir na parte de Back-end.
