@@ -16,7 +16,7 @@
   
   <div align = "center">
   
-  ## :mailbox: Mais sobre mim! 
+  ## :mailbox: meus contantos! mailbox:
   
   </div> 
   
