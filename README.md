@@ -16,7 +16,7 @@
   
   <div align = "center">
   
-  ## :mailbox: meus contantos! mailbox:
+  ## :mailbox: meus contantos! ## mailbox
   
   </div> 
   
