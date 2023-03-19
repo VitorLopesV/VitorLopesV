@@ -14,7 +14,11 @@
   <img align="center" alt="Vitor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
   
-  ##
+  <div align = "center">
+  
+  ## :mailbox: Mais sobre mim! 
+  
+  </div> 
   
   <div align ="center" , display:inline-block> 
   <a href= "https://instagram.com/vetelopes_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
