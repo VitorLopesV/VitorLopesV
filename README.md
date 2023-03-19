@@ -9,16 +9,20 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorLopesV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLopesV&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Vitor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
   
+  ##
+  
   <div align = "center">
-  
-  ## ☎️MEIOS PARA CONTATO☎️
-  
+    ☎️MEIOS PARA CONTATO☎️
   </div> 
+  
+  ####
   
   <div align ="center" , display:inline-block> 
   <a href= "https://instagram.com/vetelopes_?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
