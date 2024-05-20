@@ -1,16 +1,16 @@
-# Olá, meu nome é Vitor! 🙋‍♂️ 
+# Olá, meu nome é Vitor! 🙋🏽‍♂️ 
 
-- 🎧 Sou uma pessoa extrovertida e que curte aproveitar os momentos.
-- 🔭 Desenvolvedor Back-end se aventurando no Front-end 😵‍💫.
-- 💻 Cursando Ciência da Computação.
-- 👨🏽‍💻 Estagiário de desenvolvimento de software.
-
-  <div align ="center" , display:inline-block>
+<ul>
+<li> 🚀 Desenvolvedor Back-end.</li>
+<li> 👨🏽‍💻 Estagiário de desenvolvimento de software.</li>
+<li> 💥 As vezes gosto de me aventurar no front-end.
+<li> 💻 Cursando Ciência da Computação.</li>
+</ul>
+<div align ="center" , display:inline-block>
   <a href="https://github.com/VitorLopesV">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorLopesV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLopesV&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitor-Java" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Vitor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
