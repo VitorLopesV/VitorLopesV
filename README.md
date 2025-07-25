@@ -1,10 +1,10 @@
-# Olá, meu nome é Vitor! 🙋🏽‍♂️ 
+# Hi, my name is Vitor! 🙋🏽‍♂️ 
 
 <ul>
-<li> 🚀 Desenvolvedor Back-end.</li>
-<li> 👨🏽‍💻 Estagiário de desenvolvimento de software.</li>
-<li> 💥 As vezes gosto de me aventurar no front-end.
-<li> 💻 Cursando Ciência da Computação.</li>
+<li> 👨‍💻 Developer in training.</li>
+<li> 💡 Passionate about technology and continuous learning.</li>
+<li> 🎓 Computer science student.</li>
+<li> 📚 Always looking for new challenges and knowledge.</li>
 </ul>
 <div align ="center" , display:inline-block>
   <a href="https://github.com/VitorLopesV">
@@ -23,7 +23,7 @@
   ##
   
   <div align = "center">
-    ☎️MEIOS PARA CONTATO☎️
+    ☎️MEANS OF CONTACT☎️
   </div> 
   
   ####
