@@ -11,7 +11,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VitorLopesV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorLopesV&layout=compact&langs_count=7&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Vitor-Java" height="65" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Vitor-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Vitor-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
