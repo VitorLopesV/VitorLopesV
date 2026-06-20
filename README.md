@@ -16,7 +16,8 @@
   <img alt="Vitor-CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img alt="Vitor-CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img alt="Vitor-CSS" height="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Vitor-CSS" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />               
+  <img alt="Vitor-CSS" height="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Vitor-CSS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 </div>
   
   ##
